@@ -26,8 +26,8 @@
   </tr>
 </table>
 
-### 📈 Contribution Velocity
-<img width="80%" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=SheryarAhmed1&theme=radical&hide_border=true&stroke=31A8FF&ring=31A8FF&fire=31A8FF&border_radius=10" />
+<!-- ### 📈 Contribution Velocity -->
+<!-- <img width="80%" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=SheryarAhmed1&theme=radical&hide_border=true&stroke=31A8FF&ring=31A8FF&fire=31A8FF&border_radius=10" /> -->
 
 ---
 
